@@ -72,3 +72,4 @@ def fourth(x):
         print(matrixList[i])
 
 fourth(int(input('введите размер матрицы ')))
+
